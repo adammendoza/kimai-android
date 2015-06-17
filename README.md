@@ -1,6 +1,8 @@
 ![App Logo](https://raw.githubusercontent.com/de-live-gdev/kimai-android/master/res/drawable-hdpi/ic_launcher.png "App Logo") Kimai TimeTracker
 =======
 
+# Go to App-Page: <https://github.com/de-live-gdev/kimai-android/releases>
+
 ## General
 Android app created and maintained by Gregor Santner, 2014-  
 Latest modification: 13. Jun 2015 (v1.1)  
